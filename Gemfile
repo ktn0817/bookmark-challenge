@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'capybara'
 gem 'launchy'
+gem 'pg'
 gem 'rspec'
 gem 'rubocop'
 gem 'selenium-webdriver'
